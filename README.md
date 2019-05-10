@@ -13,9 +13,9 @@
 ```
 
 ### :exclamation: Script Options: :exclamation:
-:low_brightness: Generate Dorks
-:low_brightness: Search Dorks And Grab Url's
-:low_brightness: Check Vulnerable Or Not Vulnerable Links
+:low_brightness: Generate Dorks</br>
+:low_brightness: Search Dorks And Grab Url's</br>
+:low_brightness: Check Vulnerable Or Not Vulnerable Links</br></br>
 
 ## :point_down: Learning Video From Youtube: :point_down:
 <a href="https://youtube.com/watch?v=kq8F7ZCvGLc">YouTube.com/watch?v=7lcZtT1VF9o</a></br></br>
