@@ -149,7 +149,7 @@ def Grabber():
     print(GREEN+'   ['+YELLOW+'~'+GREEN+']'+BLUE+'Grabbeds'+WHITE+':')
     for drk in d_read:
         try:
-            r = requests.get('https://www.google.com/search?hl=en&q='+str(drk)+'&num=10&start=10&tbs=0s&safe=off&tbm=',headers=Headers).text
+            r = requests.get('https://www.google.com/search?hl=en&q='+str(drk)+'&num=10&start=10&tbs=0s&safe=off&tbm=').text
         except:
             sys.exit(0)
         reg = re.findall('<div class="g"><h3 class="r"><a href="(.*)&amp;sa=U&amp;ved=',r)
